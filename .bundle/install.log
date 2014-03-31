@@ -1,0 +1,21 @@
+# Logfile created on 2014-03-31 14:37:02 +0100 by logger.rb/31641
+I, [2014-03-31T14:37:02.064391 #91185]  INFO -- : 0:  coderay (1.0.9) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/coderay-1.0.9.gemspec
+I, [2014-03-31T14:37:02.064950 #91185]  INFO -- : 0:  diff-lcs (1.2.4) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/diff-lcs-1.2.4.gemspec
+I, [2014-03-31T14:37:02.065344 #91185]  INFO -- : 0:  ffi (1.9.0) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/ffi-1.9.0.gemspec
+I, [2014-03-31T14:37:02.065722 #91185]  INFO -- : 0:  formatador (0.2.4) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/formatador-0.2.4.gemspec
+I, [2014-03-31T14:37:02.066123 #91185]  INFO -- : 0:  rb-fsevent (0.9.3) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/rb-fsevent-0.9.3.gemspec
+I, [2014-03-31T14:37:02.066510 #91185]  INFO -- : 0:  rb-inotify (0.9.2) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/rb-inotify-0.9.2.gemspec
+I, [2014-03-31T14:37:02.066900 #91185]  INFO -- : 0:  rb-kqueue (0.2.0) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/rb-kqueue-0.2.0.gemspec
+I, [2014-03-31T14:37:02.067266 #91185]  INFO -- : 0:  listen (1.3.1) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/listen-1.3.1.gemspec
+I, [2014-03-31T14:37:02.067634 #91185]  INFO -- : 0:  lumberjack (1.0.4) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/lumberjack-1.0.4.gemspec
+I, [2014-03-31T14:37:02.067998 #91185]  INFO -- : 0:  method_source (0.8.2) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/method_source-0.8.2.gemspec
+I, [2014-03-31T14:37:02.068383 #91185]  INFO -- : 0:  slop (3.4.6) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/slop-3.4.6.gemspec
+I, [2014-03-31T14:37:02.068765 #91185]  INFO -- : 0:  pry (0.9.12.2) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/pry-0.9.12.2.gemspec
+I, [2014-03-31T14:37:02.069151 #91185]  INFO -- : 0:  thor (0.18.1) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/thor-0.18.1.gemspec
+I, [2014-03-31T14:37:02.069518 #91185]  INFO -- : 0:  guard (1.8.3) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/guard-1.8.3.gemspec
+I, [2014-03-31T14:37:02.069905 #91185]  INFO -- : 0:  rspec-core (2.14.5) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/rspec-core-2.14.5.gemspec
+I, [2014-03-31T14:37:02.070293 #91185]  INFO -- : 0:  rspec-expectations (2.14.2) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/rspec-expectations-2.14.2.gemspec
+I, [2014-03-31T14:37:02.070680 #91185]  INFO -- : 0:  rspec-mocks (2.14.3) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/rspec-mocks-2.14.3.gemspec
+I, [2014-03-31T14:37:02.071059 #91185]  INFO -- : 0:  rspec (2.14.1) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/rspec-2.14.1.gemspec
+I, [2014-03-31T14:37:02.071432 #91185]  INFO -- : 0:  guard-rspec (3.1.0) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/guard-rspec-3.1.0.gemspec
+I, [2014-03-31T14:37:02.071800 #91185]  INFO -- : 0:  bundler (1.5.1) from /Users/jbrunton/.rvm/gems/ruby-1.9.3-p362/specifications/bundler-1.5.1.gemspec
